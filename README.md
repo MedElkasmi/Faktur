@@ -1,5 +1,3 @@
-# **elkasmiRif: Invoice Management Application**
-
 Simple web application to extract texts by using AWS Textrac. It allows users to upload invoices and automatically extracts keywords and data, making accounting and documentation processes more efficient.
 
 ## **Features**
